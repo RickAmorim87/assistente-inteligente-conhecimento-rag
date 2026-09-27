@@ -354,5 +354,5 @@ Módulo:
 ---
 
 # 👨‍💻 Autor
-
+Ricardo Amorim
 Desenvolvido como projeto de estudo e portfólio em Engenharia de Inteligência Artificial.
